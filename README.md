@@ -1,5 +1,4 @@
 # 8BIT_SYNCHRONOUS_UP-DOWN_COUNTER
-# 8BIT_SYNCHRONOUS_UP-DOWN_COUNTER
 # AIM
 To simulate and synthesis 8bit synchronous up-down counter using vivado.
 
